@@ -31,7 +31,7 @@ This website is built with a modern, high-performance web stack:
 - **Build Tool:** Vite 8, with Nitro as the server runtime
 - **Other Notable Libraries:** Recharts (charts), Embla Carousel, date-fns, Sonner (toasts), lucide-react (icons)
 - **Code Quality:** ESLint + Prettier, TypeScript ESLint
-- **Built with:** Lovable (via `@lovable.dev/vite-tanstack-config`)
+- **Scaffolded with:** Lovable (via `@lovable.dev/vite-tanstack-config`)
 
 ## Getting Started
 
